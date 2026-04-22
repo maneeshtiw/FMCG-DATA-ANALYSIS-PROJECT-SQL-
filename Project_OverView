@@ -1,0 +1,84 @@
+# 📊 FMCG Revenue Analysis
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Project Type](https://img.shields.io/badge/Project-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Tools](https://img.shields.io/badge/Tools-SQL%20%7C%20Python%20%7C%20PowerBI-orange)
+
+---
+
+## 📌 Project Overview
+
+This project focuses on analyzing an FMCG (Fast-Moving Consumer Goods) revenue dataset to uncover key business insights related to **sales performance, profitability, and regional trends**.
+
+Using SQL, the dataset was cleaned, transformed, and analyzed to extract meaningful insights that can support **data-driven business decisions**.
+
+---
+
+## 🎯 Objective
+
+> Transform raw FMCG sales data into actionable insights to improve revenue, profitability, and business strategy.
+
+---
+
+## 🗂️ Dataset Description
+
+The dataset includes the following key fields:
+
+- 📅 Date  
+- 🌍 Region / Country  
+- 🏷️ Brand / Product  
+- 📦 Category  
+- 🔢 Units Sold  
+- 💰 Revenue  
+- 💸 Cost  
+- 📈 Profit  
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **SQL** → Data extraction & analysis  
+
+---
+
+## 🔍 Key Analysis Performed
+
+- Revenue and profit analysis by region, product, and brand  
+- Month-over-Month (MoM) and Year-over-Year (YoY) growth trends  
+- Profit margin and cost analysis  
+- Top and bottom-performing products  
+- Regional performance comparison  
+- Pareto analysis (Top 20% products contribution)
+
+---
+
+## 📊 Key Insights
+
+- 📉 Some regions generate **high revenue but low profit margins**  
+- 🏆 A small percentage of products contribute to the **majority of revenue**  
+- 📆 Strong **seasonal trends** observed in sales  
+- 💸 High operational costs impacting profitability in certain regions  
+
+---
+
+## 🚀 Business Recommendations
+
+- Optimize supply chain to reduce operational costs  
+- Improve pricing strategies for low-margin products  
+- Focus marketing efforts on high-performing products  
+- Increase inventory planning during peak seasons  
+
+---
+
+## 🧠 SQL Concepts Used
+
+- Joins (INNER, LEFT)  
+- Group By & Aggregations  
+- Window Functions (RANK, ROW_NUMBER, SUM OVER)  
+- Subqueries & CTEs  
+- Case Statements  
+
+---
+
+## 📁 Project Structure
